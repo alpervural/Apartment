@@ -1,0 +1,1 @@
+My solution is a java file. The string to normalize should be the first input as a parameter to the main method. Ex: by typing "java Normalize foo/baz" into the command line after compiling the file.
